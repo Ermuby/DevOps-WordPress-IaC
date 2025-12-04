@@ -103,5 +103,5 @@ Mediante sed, curl, y plantillas de configuración.
 
 ## 👨‍💻 Autor
 
-*   **Nombre:** Rubén [Tu Apellido]
-*   **Contacto:** [Tu Email o Perfil de LinkedIn]
+*   **Nombre:** Rubén Ribes
+*   **Contacto:** https://www.linkedin.com/in/ruben-ribes/
